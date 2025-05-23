@@ -1,6 +1,6 @@
 <h1 align="center">✨ Olá, eu sou a Juwck ✨</h1>
 <p align="center">
-  <img src="https://media.tenor.com/BcPz4Y6zE0sAAAAC/cosmic-purple.gif" width="200" />
+  <img src="https://media1.tenor.com/m/l-5Ngobkj1UAAAAd/galaxy.gif" width="200" />
 </p>
 
 <p align="center">
